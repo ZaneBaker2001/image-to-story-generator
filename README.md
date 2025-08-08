@@ -6,9 +6,6 @@ A Vision-Language Model (VLM) that takes an image as input and generates a short
 
 This project combines a vision encoder (ResNet50) with a language model (GPT-2) to form a lightweight, powerful VLM pipeline. A linear projection bridges the vision features to GPT-2's embedding space, enabling creative and descriptive story generation from images.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/CLIP-GPT_diagram.png/640px-CLIP-GPT_diagram.png" width="600" />
-</p>
 
 ## Features
 
