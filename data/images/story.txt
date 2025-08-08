@@ -1,3 +1,0 @@
-dog.jpg    A small dog runs through a sunny field, chasing butterflies.
-car.jpg    A red sports car speeds down a desert highway under the setting sun.
-cat.jpg    A curious cat climbs a tree, watching birds fly above.
